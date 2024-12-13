@@ -1,0 +1,46 @@
+.navaro{
+    background-color:rgba(175, 187, 187, 0.205);
+    color: beige;
+}
+.navbar-nav a{
+    color: rgb(15, 15, 14);
+}
+
+.hero{
+    height: 88vh;
+    background: url(/img/poulet2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.grid{
+    display: flex;
+    gap: 10px;
+}
+
+.cardflex{
+    display: flex;
+    justify-content: space-around;
+    text-shadow: black;
+}
+.textresto{
+    color: aliceblue;
+    text-shadow: 5px 2px 3px black;
+    
+}
+
+#photo{
+    margin:60px ;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+   
+}
+
+.Restaurant{
+    display: flex;
+    
+}
+
+.bouton1{
+  margin-left: 160px;
+}
